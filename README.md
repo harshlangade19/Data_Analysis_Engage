@@ -1,4 +1,4 @@
-******PREDICTION_OF_MILES_PER_GALLON_FOR_AN_AUTOMOBILE******
+******AUTOMOBILE_MPG_PREDICTION******
 
 ***About the Dataset***
 
@@ -107,7 +107,7 @@ This prediction would greatly help the design engineers in automobile industry,t
 
 
 
-******PREDICTION_OF_AUTOMOBILE_SALES******
+******AUTOMOBILE_SALES_PREDICTION******
 
 ***About the Dataset***
 
