@@ -126,7 +126,7 @@ The dataset contains 157 instances and 16 attributes related to the sales data o
 
 3.Sales_in_thousands (Continuous): Total sales of the model(in thousands)
 
-4.  4 Year Resale Value (Continuous): 4 Year Resale Value
+4.4 Year Resale Value (Continuous): 4 Year Resale Value
 
 5.Vehicle Type (Multi-Valued Discrete): Type of vehcile (Sedan-1 Not Sedan-2)
 
