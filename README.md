@@ -1,6 +1,6 @@
-**PREDICTION_OF_MILES_PER_GALLON_FOR_AN_AUTOMOBILE**
+***PREDICTION_OF_MILES_PER_GALLON_FOR_AN_AUTOMOBILE***
 
-**About the Dataset
+**About the Dataset**
 
 This project showcases the use of Machine Learning on the Auto MPG dataset('auto-mpg.csv'), sourced from the UCI Machine Learning Repository.
 
