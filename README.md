@@ -1,6 +1,6 @@
-###PREDICTION_OF_MILES_PER_GALLON_FOR_AN_AUTOMOBILE
+PREDICTION_OF_MILES_PER_GALLON_FOR_AN_AUTOMOBILE
 
-#About the Dataset
+About the Dataset
 
 This project showcases the use of Machine Learning on the Auto MPG dataset('auto-mpg.csv'), sourced from the UCI Machine Learning Repository.
 
@@ -10,7 +10,7 @@ The dataset contains 398 instances and 8 attributes related to the city-cycle fu
 
 
 
-#Data Description:
+Data Description:
 
 1.MPG (Continuous): Miles per Gallon - Metric of vehicle's fuel efficiency
 
@@ -30,14 +30,14 @@ The dataset contains 398 instances and 8 attributes related to the city-cycle fu
 
 
 
-#Objective:
+Objective:
 
 The main objective of the project is to predict miles per gallon (MPG) of a car, based on its given attributes(characteristics).
 This prediction would greatly help the designer engineers in automobile industry,to approximately determine the expected MPG of their designed car and help them make suitable changes to produce a better product. It will help companies maintain competition and increase their chance of customer acquisition and hence profits  as they would be able to design products that customers would like.
 
 
 
-#Procedure:
+Procedure:
 
 1.Framing the Problem
 
@@ -62,15 +62,15 @@ This prediction would greatly help the designer engineers in automobile industry
 7.Model - Results and Conclusion
 
 
-##Tools and Frameworks Used
+Tools and Frameworks Used
 
-#Web Development:
+Web Development:
 
 1.Flask – Python web framework
 
 2.HTML
 
-#Development Environment:
+Development Environment:
 
 1.Spyder IDE – Python program development environment
 
@@ -78,7 +78,7 @@ This prediction would greatly help the designer engineers in automobile industry
 
 3.Anaconda Virtual Environments – python virtual environment application
 
-#Libraries Used:
+Libraries Used:
 
 1.numpy
 
@@ -107,9 +107,9 @@ This prediction would greatly help the designer engineers in automobile industry
 
 
 
-###PREDICTION_OF_AUTOMOBILE_SALES
+PREDICTION_OF_AUTOMOBILE_SALES
 
-#About the Dataset
+About the Dataset
 
 This project showcases the use of Machine Learning on the Car Sales dataset('Car_sales.csv'), sourced from kaggle. 
 
@@ -118,7 +118,7 @@ Link: https://www.kaggle.com/datasets/hsinha53/car-sales
 The dataset contains 157 instances and 16 attributes related to the sales data of automobiles.
 
 
-#Data Description:
+Data Description:
 
 1.Manufacturer (Multi-Valued Discrete): Name of the manufacturer company
 
@@ -152,14 +152,14 @@ The dataset contains 157 instances and 16 attributes related to the sales data o
 
 16.Power_Perf_Factor (Continuous)
 
-#Objective
+Objective
 
 The main objective of this project is to predict the automobile sales based on its given attributes(characteristics).
 This would help automobile companies to approximately predict the sales of a particular model on the basis of its attributes. Accordingly, they would be able to tweak the characteristics so to maximize their sale,increase their profits and hence compete with other companies.
 
 
 
-#Procedure:
+Procedure:
 
 1.Framing the Problem
 
@@ -182,15 +182,15 @@ This would help automobile companies to approximately predict the sales of a par
 7.Model - Results and Conclusion
 
 
-##Tools and Frameworks Used
+Tools and Frameworks Used
 
-#Web Development:
+Web Development:
 
 1.Flask – Python web framework
 
 2.HTML
 
-#Development Environment:
+Development Environment:
 
 1.Spyder IDE – Python program development environment
 
@@ -198,7 +198,7 @@ This would help automobile companies to approximately predict the sales of a par
 
 3.Anaconda Virtual Environments – python virtual environment application
 
-#Libraries Used:
+Libraries Used:
 
 1.numpy
 
