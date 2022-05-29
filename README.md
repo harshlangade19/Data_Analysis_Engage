@@ -1,4 +1,4 @@
-##****PREDICTION_OF_MILES_PER_GALLON_FOR_AN_AUTOMOBILE****##
+******PREDICTION_OF_MILES_PER_GALLON_FOR_AN_AUTOMOBILE******
 
 ***About the Dataset***
 
@@ -33,7 +33,7 @@ The dataset contains 398 instances and 8 attributes related to the city-cycle fu
 ***Objective:***
 
 The main objective of the project is to predict miles per gallon (MPG) of a car, based on its given attributes(characteristics).
-This prediction would greatly help the designer engineers in automobile industry,to approximately determine the expected MPG of their designed car and help them make suitable changes to produce a better product. It will help companies maintain competition and increase their chance of customer acquisition and hence profits  as they would be able to design products that customers would like.
+This prediction would greatly help the design engineers in automobile industry,to approximately determine the expected MPG of their designed car and help them make suitable changes to produce a better product. It will help companies maintain competition and increase their chance of customer acquisition and hence profits  as they would be able to design products that customers would like.
 
 
 
@@ -107,7 +107,7 @@ This prediction would greatly help the designer engineers in automobile industry
 
 
 
-*****PREDICTION_OF_AUTOMOBILE_SALES*****
+******PREDICTION_OF_AUTOMOBILE_SALES******
 
 ***About the Dataset***
 
@@ -155,7 +155,7 @@ The dataset contains 157 instances and 16 attributes related to the sales data o
 ***Objective:***
 
 The main objective of this project is to predict the automobile sales based on its given attributes(characteristics).
-This would help automobile companies to approximately predict the sales of a particular model on the basis of its attributes. Accordingly, they would be able to tweak the characteristics so to maximize their sale,increase their profits and hence compete with other companies.
+This would help automobile companies to approximately predict the sales of a particular model on the basis of its attributes. Accordingly, they would be able to tweak the characteristics and produce a better model, so to maximize their sale,increase their profits and hence compete with other companies.
 
 
 
